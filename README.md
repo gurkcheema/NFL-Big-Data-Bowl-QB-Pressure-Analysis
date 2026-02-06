@@ -3,18 +3,18 @@
 **Author:** Gurkamal Cheema  
 **Contact:** gurkamalkcheema@gmail.com
 
-## 🏈Project Overview
+## Project Overview
 
 This analysis examines how defensive pressure impacts quarterback performance in the NFL, using data analysis techniques similar to those employed in the NFL's annual Big Data Bowl competition. The project investigates completion rates, yards per attempt, and optimal defensive strategies across 2,500+ simulated plays based on real NFL statistical distributions.
 
-### 🏈Research Questions
+### Research Questions
 
 1. How does defensive pressure affect quarterback completion percentage and yards per attempt?
 2. What is the optimal timing for defensive pressure to maximize effectiveness?
 3. Which defensive alignments generate the most successful pressure?
 4. How does time to throw correlate with passing success under different pressure scenarios?
 
-## 🏈 Key Findings
+## Key Findings
 
 ### Pressure Impact on Performance
 - **Completion Rate**: Pressure reduces completion percentage by **24.3 percentage points** (67.8% → 43.5%)
@@ -39,7 +39,7 @@ This analysis examines how defensive pressure impacts quarterback performance in
 - Extended time (**>3.0s**): 70.1% completion (no pressure) → **46.8%** (pressure)
 - Pressure most disruptive on quick-developing plays
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Python 3.x**
 - **Pandas** - Data manipulation and analysis
@@ -48,7 +48,7 @@ This analysis examines how defensive pressure impacts quarterback performance in
 - **Seaborn** - Statistical graphics
 - **SciPy** - Statistical testing
 
-## 🏈Repository Structure
+## Repository Structure
 
 ```
 nfl_analytics_project/
@@ -58,7 +58,7 @@ nfl_analytics_project/
 └── README.md                         # This file
 ```
 
-## 🏈How to Run
+## How to Run
 
 ### Prerequisites
 ```bash
@@ -75,7 +75,7 @@ python qb_pressure_analysis.py
 - `qb_pressure_visualizations.png` - 6-panel visualization dashboard
 - `qb_pressure_data.csv` - Raw data for further exploration
 
-## 🏈Visualizations
+## Visualizations
 
 The analysis generates a comprehensive 6-panel dashboard including:
 
@@ -88,7 +88,7 @@ The analysis generates a comprehensive 6-panel dashboard including:
 
 ![Sample Visualization](qb_pressure_visualizations.png)
 
-## 🏈Coaching Recommendations
+## Coaching Recommendations
 
 ### For Defensive Coordinators
 
@@ -119,7 +119,7 @@ The analysis generates a comprehensive 6-panel dashboard including:
    - Adjust pass protection based on down/distance
    - Quick game when expecting immediate pressure
 
-## 🏈 Data Methodology
+## Data Methodology
 
 The analysis uses **realistic simulated data** based on actual NFL statistical distributions:
 
@@ -136,7 +136,7 @@ The analysis uses **realistic simulated data** based on actual NFL statistical d
 - Score differential, quarter
 - Outcome variables: completion, yards gained, sacks, interceptions
 
-## 🏈 Future Analysis Directions
+## Future Analysis Directions
 
 1. **Individual QB Analysis**
    - QB-specific pressure response profiles
@@ -159,7 +159,7 @@ The analysis uses **realistic simulated data** based on actual NFL statistical d
    - Opponent-specific pressure strategy optimization
 
 
-## 📫 Contact
+## Contact
 
 **Gurkamal Cheema**  
 - Email: gurkamalkcheema@gmail.com  
