@@ -1,7 +1,6 @@
 # NFL Big Data Bowl Analysis: QB Performance Under Pressure
 
 **Author:** Gurkamal Cheema  
-**Date:** February 2026  
 **Contact:** gurkamalkcheema@gmail.com
 
 ## 🏈Project Overview
@@ -167,5 +166,3 @@ The analysis uses **realistic simulated data** based on actual NFL statistical d
 - Phone: 908-636-9718  
 
 ---
-
-*This project was created as part of my application to NFL analytics roles, demonstrating proficiency in Python, SQL, data visualization, and football strategy analysis.*
